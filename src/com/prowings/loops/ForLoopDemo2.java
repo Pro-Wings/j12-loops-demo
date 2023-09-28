@@ -8,7 +8,7 @@ public class ForLoopDemo2 {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Main started!!!");
+//		System.out.println("Main started!!!");
 		
 		for(int i = 0; i < 5; i++)
 		{
