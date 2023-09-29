@@ -1,14 +1,13 @@
 package com.prowings.loops;
 
-public class ForLoopDemo {
+public class ForLoopDemo3 {
 
 	public static void main(String[] args) {
 
 		System.out.println("Main started!!!");
 
-		for (byte i = 1; i <= 126; i++) {
-			
-			System.out.println(i);
+		for (int i = 1; i <= 5; i++) {
+			System.out.println("Hello");
 		}
 
 		System.out.println("Main ended!!!");
